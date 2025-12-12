@@ -1,0 +1,22 @@
+# Flask and Web Framework
+Flask==3.0.0
+flask-cors==4.0.0
+Werkzeug==3.0.1
+
+# Machine Learning - YOLO
+ultralytics==8.1.0
+
+# Computer Vision
+opencv-python-headless==4.8.1.78
+numpy==1.24.3
+Pillow==10.1.0
+
+# PyTorch (required by ultralytics)
+torch==2.1.0
+torchvision==0.16.0
+
+# Additional dependencies
+python-dateutil==2.8.2
+
+# Production server (recommended for Azure)
+gunicorn==21.2.0
